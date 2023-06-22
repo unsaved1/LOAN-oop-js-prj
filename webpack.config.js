@@ -5,7 +5,7 @@ const path = require('path');
 const pathPrj = 'oop-js/js';
 
 module.exports = {
-    mode: 'development',
+    mode: 'production',
     entry: './src/js/main.js',
     output: {
         // стандартный
